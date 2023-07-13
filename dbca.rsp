@@ -219,7 +219,7 @@ useLocalUndoForPDBs=true
 # Mandatory     : No
 #-----------------------------------------------------------------------------
 
-pdbAdminPassword= "Quest4me"
+pdbAdminPassword=Quest4me
 
 #-----------------------------------------------------------------------------
 # Name          : nodelist
@@ -259,7 +259,7 @@ templateName=/u01/app/oracle/product/23.0.0/dbhome_1/assistants/dbca/templates/G
 # Default value : None
 # Mandatory     : Yes
 #-----------------------------------------------------------------------------
-sysPassword= "Quest4me"
+sysPassword=Quest4me
 
 #-----------------------------------------------------------------------------
 # Name          : systemPassword
@@ -269,7 +269,7 @@ sysPassword= "Quest4me"
 # Default value : None
 # Mandatory     : Yes
 #-----------------------------------------------------------------------------
-systemPassword= "Quest4me"
+systemPassword=Quest4me
 
 #-----------------------------------------------------------------------------
 # Name          : serviceUserPassword
